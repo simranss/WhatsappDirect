@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Whatsapp Go</string>
+
+    <!-- hints -->
+    <string name="phone">Mobile Number</string>
+    <string name="text_hint">Text</string>
+
+    <!-- Constants -->
+    <string name="send">Send</string>
+
+</resources>
